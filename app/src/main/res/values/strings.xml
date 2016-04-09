@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BottleTopRace!</string>
+    <string name="app_name">Bottle Top Race</string>
+<string name="players">Players</string><string name="add_player">&gt;</string>
+<string name="remove_player">&lt;</string><string name="start">Start game</string><string name="quit">Quit</string>
+
+
+<string name="laps">Laps</string><string name="add_lap">&gt;</string>
+<string name="remove_lap">&lt;</string>
+
+
+<string name="player_wins">Player %1$d wins!</string>
+<string name="back">Back</string>
+<string name="undo">Undo</string>
+<string name="circuit">Circuit</string>
+<string name="next_circuit">&gt;</string>
+<string name="previous_circuit">&lt;</string>
+<string name="share">Share this game!</string>
+<string name="share_text">Play bottle top game by hitting your android phone! http://goo.gl/FEbH4</string>
+</resources>
