@@ -1,6 +1,8 @@
 # bottleTopRace
 Bottle Top Race game in your Android!
 
+[![Bottle Top Race](https://img.youtube.com/vi/qF3_uKabZF4/0.jpg)](https://www.youtube.com/watch?v=qF3_uKabZF4)
+
 Available at https://play.google.com/store/apps/details?id=com.lamboratory.android.bottleTop.race
 
 Original control method: Play this racing game by hitting your phone like a bottle top. Click on the screen to point and hit your phone with your finger. The harder you hit, the longer the shot. Watch the video to see it in action.
